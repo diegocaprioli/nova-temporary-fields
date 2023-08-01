@@ -1,5 +1,5 @@
 {
-    "name": "ganyicz/nova-temporary-fields",
+    "name": "diegocaprioli/nova-temporary-fields",
     "description": "Make Laravel Nova fields temporary",
     "license": "MIT",
     "authors": [
